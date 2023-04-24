@@ -30,13 +30,13 @@
 `minikube service todo-service`  
 
 #### debug
-kubectl get all
-kubectl get pod
-kubectl get deployments
-kubectl get service -owide
-kubectl get pvc
-kubectl logs todo-app-77c75744b7-px6zn
-kubectl describe pod todo-app-77c75744b7-px6zn
+`kubectl get all`  
+`kubectl get pod`  
+`kubectl get deployments`  
+`kubectl get service -owide`  
+`kubectl get pvc`  
+`kubectl logs todo-app-77c75744b7-px6zn`  
+`kubectl describe pod todo-app-77c75744b7-px6zn`  
 
 
 #### EKS (setup aws console cli):  
