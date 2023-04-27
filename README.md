@@ -53,8 +53,8 @@
 
 #### set creds
 `aws configure`  
-> AWS Access Key ID [None]: I DELETED THIS KEY FROM AWS CONSOLE MY FRIEND
-> AWS Secret Access Key [None]: MAY YOU HAVE A MISERABLE LIFE FOR THIS
+> AWS Access Key ID [None]: I DELETED THIS KEY FROM AWS CONSOLE MY FRIEND  
+> AWS Secret Access Key [None]: MAY YOU HAVE A MISERABLE LIFE FOR THIS  
 > Default region name [None]: us-east-2  
 > Default output format [None]: json`  
 
