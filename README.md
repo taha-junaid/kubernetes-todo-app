@@ -53,8 +53,8 @@
 
 #### set creds
 `aws configure`  
-> AWS Access Key ID [None]: AKIASSETPMTWCCS26GMH  
-> AWS Secret Access Key [None]: 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  
+> AWS Access Key ID [None]: NICE TRY
+> AWS Secret Access Key [None]: NOT ANYMORE  
 > Default region name [None]: us-east-2  
 > Default output format [None]: json`  
 
